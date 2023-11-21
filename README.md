@@ -9,7 +9,7 @@ const kneRodri = {
 };
 ```  
 You can find me 🌎:
-- [Linkdin] (https://www.linkedin.com/in/kneliarodr%C3%ADguezrojas/)
+- [Linkdin] (https://www.linkedin.com/in/knerodri/)
 
 
 
