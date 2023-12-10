@@ -3,7 +3,7 @@
 ```js
 
 const kneRodri = {
-  code: ['Javascript', 'HTML', 'CSS', 'SQL'],
+  code: ['Javascript', 'HTML', 'CSS', 'SQL', 'Angular'],
   tools: ['Node', 'Figma', 'Trello', 'Jest'],
   passions: ['web development', 'learnig'],
 };
