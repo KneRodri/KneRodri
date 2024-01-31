@@ -3,8 +3,8 @@
 ```js
 
 const kneRodri = {
-  code: ['Javascript', 'HTML', 'CSS', 'SQL', 'Angular'],
-  tools: ['Node', 'Figma', 'Trello', 'Jest'],
+  code: ['Javascript', 'HTML', 'CSS', 'SQL', 'Angular', 'Node.js'],
+  tools: ['Node', 'Figma', 'Trello', 'Jest', 'Git & GitHub'],
   passions: ['web development', 'learnig'],
 };
 ```  
